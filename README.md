@@ -1,2 +1,1 @@
-# wip-count-blue
-WIP Count Blue Template Page
+# WIP Count Blue Template Page

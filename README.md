@@ -1,5 +1,5 @@
-# Work In Progress
-## Count Blue Template Page
+# Count Blue Template Page
+## Work In Progress (WIP)
 
 <!-- BADGES/ -->
 

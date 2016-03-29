@@ -33,6 +33,22 @@ This is a modern and interactive Work In Progress Page that you can easily and r
 
 - Include 12 Months of support by CalliTech;
 
+### Project Information
+
+##### Test Page
+
+Please visit ou [Test Page](http://caf.calli.tech/) and see the project working:
+
+<span class="image">
+  <a href="http://wipcb.calli.tech/" title="link">
+    <img src="assets/add_link.png" alt="link" width="5%" height="5%" />
+  </a>
+</span>
+
+##### Date
+
+25/03/2016
+
 ##### Authors
 
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))

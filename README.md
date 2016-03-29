@@ -21,6 +21,12 @@
 
 This is a modern and interactive Work In Progress Page that you can easily and rapidly customize. While your site or product is underway, use the included newsletter form to collect prospective customers and visitors. The template is ready-to-go and has features cool animations. If you’re looking for something different and trendy, that’s your top choice.
 
+![alt tag](assets/presentation1.png "Presentation")
+
+![alt tag](assets/presentation2.png "Presentation")
+
+![alt tag](assets/presentation3.png "Presentation")
+
 ### Feature List
 
 - Fully responsive web design for all devices;

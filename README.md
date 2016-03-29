@@ -17,6 +17,22 @@
 
 ![alt tag](assets/screenshot1.png "Slider Preview")
 
+### Description
+
+This is a modern and interactive Work In Progress Page that you can easily and rapidly customize. While your site or product is underway, use the included newsletter form to collect prospective customers and visitors. The template is ready-to-go and has features cool animations. If you’re looking for something different and trendy, that’s your top choice.
+
+### Feature List
+
+- Fully responsive web design for all devices;
+
+- Use one of the included color schemes or make your own with clean CSS file;
+
+- Compatible on all major modern browsers;
+
+- Well documented;
+
+- Include 12 Months of support by CalliTech;
+
 ##### Authors
 
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))

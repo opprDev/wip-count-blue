@@ -37,7 +37,7 @@ This is a modern and interactive Work In Progress Page that you can easily and r
 
 ##### Test Page
 
-Please visit ou [Test Page](http://caf.calli.tech/) and see the project working:
+Please visit ou [Test Page](http://wipcb.calli.tech/) and see the project working:
 
 <span class="image">
   <a href="http://wipcb.calli.tech/" title="link">

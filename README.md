@@ -54,3 +54,5 @@ Please visit ou [Test Page](http://wipcb.calli.tech/) and see the project workin
 Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
 
 ##### Editors
+
+Bruno Oliveira ([bruno-oliveira](https://github.com/bruno-oliveira))

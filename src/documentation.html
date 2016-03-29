@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+
+  
+    <title> Documentation | Animated Flexslider</title>
+     
+        <script src="./js/jquery-1.8.0.min.js"></script>
+     
+    
+    	<link href="./css/reset.css" rel="stylesheet">
+    
+     
+        <link href="./css/github.css" rel="stylesheet">
+     
+    
+
+    
+  </head>
+  <body >
+  <header  id="main-header" class="clearfix">  
+    <div  class="page wrapper"> 
+       <div class="col span_6">
+       </div>
+    </div>
+  </header>
+  <div  class="page wrapper main-wrapper">  
+      <script>
+        hljs.tabReplace = '    ';
+        hljs.initHighlightingOnLoad();
+</script>
+<div class="row clearfix logo_shift">
+<div id="docs" class="span_5 col ">
+<h2 id='basic-usage'>Basic Usage</h2>
+<p>1. Upload
+<code>wip-count-blue</code>
+folder to your server and add the required files in your page (usually in the <code>head</code> section).</p>
+<pre><code>&lt;!-- basic stylesheet --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot;&gt;</code></pre>
+
+<p>2. Add your information on the HTML code to the <code>form</code> section.</p>
+<pre><code>&lt;form class=&quot;form-inline signup&quot; role=&quot;form&quot;&gt;
+  &lt;div class=&quot;form-group&quot;&gt;
+    &lt;input type=&quot;email&quot; class=&quot;form-control&quot; id=&quot;exampleInputEmail1&quot; placeholder=&quot;Enter your email address&quot;&gt;
+  &lt;/div&gt;
+  &lt;button type=&quot;submit&quot; class=&quot;btn btn-theme&quot;>Get notified!&lt;/button&gt;
+&lt;/form>&gt;</code></pre>
+<p>3. Initialize the countdown usually at the end of the <code>form</code> section.</p>
+<pre><code>&lt;script&gt;
+	$('#countdown').countdown('2116/01/01', function(event) {
+    $(this).html(event.strftime('%w weeks %d days &lt;br /&gt; %H:%M:%S'));
+  });
+&lt;/script&gt;</code></pre>
+<p>4. Apply <code>body</code> options via CSS (optional). If you want to change the body width, color or aesthetics take a look at the <code>style.css</code> file.</p>
+<pre><code>.body {
+  background: #394864;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6em;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}</code></pre>
+<p>5. Apply <code>btn</code> options via CSS (optional). If you want the buttons to scale height based on width, color or aesthetics take a look at the <code>style.css</code> file.</p>
+<pre><code>.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+       -o-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 0;
+}</code></pre>
+<p>6. Apply <code>wrapper</code> options via CSS (optional). If you want to change the wrapper color or aesthetics take a look at the <code>style.css</code> file.</p>
+<pre><code>#wrapper {
+  text-align: center;
+  padding: 50px 0;
+  background: url(../img/main-bg.jpg) no-repeat center top;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 650px;
+  width: 100%;  
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}</code></pre>
+</div>
+</div>
+  </div>
+  <div class="wrapper page">
+     <footer class="row clearfix" id="main-footer">
+    <div class="col span_6">
+      <p class="copy">© <a href="http://calli.tech">CalliTech</a></p>
+    </div>
+  </footer>
+  </body>
+</html>

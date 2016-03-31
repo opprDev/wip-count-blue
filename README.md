@@ -60,3 +60,5 @@ Francisco Maria Calisto ([FMCalisto](https://github.com/FMCalisto))
 ##### Editors
 
 Bruno Oliveira ([bruno-oliveira](https://github.com/bruno-oliveira))
+
+Bruno Cardoso ([bdcardoso](https://github.com/bdcardoso))

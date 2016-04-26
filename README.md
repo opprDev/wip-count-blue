@@ -39,6 +39,10 @@ This is a modern and interactive Work In Progress Page that you can easily and r
 
 ### Project Information
 
+##### Buy
+
+[Templamatic](https://www.templamatic.com/templates/4350)
+
 ##### Test Page
 
 Please visit ou [Test Page](http://wipcb.calli.tech/) and see the project working:
